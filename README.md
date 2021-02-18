@@ -1,7 +1,7 @@
 # onix_chat
 
 - Clone the repository
-	> git clone https://github.com/ikolodiazhnyi/onix_chat.git !!!
+	> git clone https://github.com/ikolodiazhnyi/onix_chat.git
 - Open the project with any IDE
 - Move on the same level with manage.py file
 - Install packages from requirements.txt
