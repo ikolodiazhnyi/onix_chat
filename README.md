@@ -28,5 +28,4 @@ URLS
 Explanation 
 -------------
 
-After the user joined to the certain chat room he can receive and send messages to other patricipants in this chat room. 
-To check this you need to join to the one chat room from the different tabs of your browser. Only logged in users may join to the chat rooms.
+After the user joined to the certain chat room he can receive and send messages to other patricipants in this chat room. To check this you need to create a new room with admin panel and select allowed users for this room. Join to the one chat room from the different tabs of your browser. Only logged in users may join to the chat rooms. If user have no permission for certain chat room, he will be redirected to html page with text “You have no access to this chat”. No one can’t get access to an uncreated room.
