@@ -24,5 +24,6 @@ urlpatterns = [
     path('login/', LoginView.as_view(), name='login'),
     path('logout/', LogoutView.as_view(), name='logout'),
     path('chat/', include('chatAPP.urls')),
+    path('', views.main, name='main'),
     path('admin/', admin.site.urls),
 ]

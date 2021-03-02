@@ -137,7 +137,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-LOGIN_REDIRECT_URL = 'http://127.0.0.1:8000/chat/'
+LOGIN_URL = '/login/'
+LOGIN_REDIRECT_URL = 'http://127.0.0.1:8000/chat'
 LOGOUT_REDIRECT_URL = '/login/'
 
 AUTH_PASSWORD_VALIDATORS = []
